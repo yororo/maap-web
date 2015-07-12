@@ -1,6 +1,6 @@
-@import url(/assets/css/1-tools/concise/css/concise.css);
-@import url(/assets/css/1-tools/iconfont/style.css);
-@import url(/assets/css/1-tools/bxslider/jquery.bxslider.css);
+@import url(1-tools/concise/css/concise.css);
+@import url(1-tools/iconfont/style.css);
+@import url(1-tools/bxslider/jquery.bxslider.css);
 html a {
   font-weight: bold;
   text-decoration: none; }
@@ -8,7 +8,7 @@ html a {
     color: #000; }
 
 header {
-  background-image: url("/assets/img/hdr3.jpg");
+  background-image: url("../img/hdr3.jpg");
   background-position: center;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.2) 3px 5px 5px; }
